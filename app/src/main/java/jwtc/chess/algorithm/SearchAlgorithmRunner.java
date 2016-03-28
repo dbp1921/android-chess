@@ -1,4 +1,5 @@
 package jwtc.chess.algorithm;
+//This is my search algotrithm
 
 import jwtc.chess.GameControl;
 import jwtc.chess.JNI;
