@@ -1,3 +1,4 @@
+//There is an error in this file!
 package jwtc.chess.board;
 
 // ChessBoard. object extended from BoardMembers, BoardStatics and BoardConstants in order to split up some code and
